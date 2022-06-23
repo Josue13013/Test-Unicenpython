@@ -45,12 +45,19 @@ En la linea: "driver_path = " (sin borrar los parentesis y las comillas simplres
 
 Abra una linea (Consola) de comandos (Donde se encuentre el archivo "unicen.py") y ejecute el comando: "python unicen.py"
 
+
 Se ejecutara el archivo "unicen.py" esto es lo que sucedera:
 
 Se abrira un navegador google chrome y se auto-ajustara al tamaño de su pantalla(El tamaño sera de su pantalla completa)
+
 Abrira la pagina principal de UNICEN
-se llenara el formulario de Solicitu de informacion 
+
+se llenara el formulario de Solicitu de informacion
+
 se hara click en el boton de "Sign in"
+
 Se enviara el formulario y se refrescara la pagina mostrando un poco antes del formulario de solicitud de informacion un mensaje indicando que los datos fueron enviados correctamente.
+
 al pasar unos segundos la ventana (Navegador google Chrome) que se abrio, se cerrara.
+
 Powered By Josué Rodrigo Chura Rojas :-)
